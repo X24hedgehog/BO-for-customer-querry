@@ -2,9 +2,9 @@
 
 ## **Problem Statement**
 
-When dealing with large customer databases, it is often impractical and economically infeasible to provide special treatment to every customer, such as offering a free trial of a product. However, we still need to identify the customers most likely to convert (e.g., purchase the product) to maximize the effectiveness of these special offers.
+Suppose your company just launch a new product and want to sell it. The product attracts a lot of people but not all of them will purchase it, so the company want to offer some free trial of the product to advertise the new characteristic of the product. The dilemma is, we have too many "potential customers", and it is often impractical and economically infeasible to provide such special treatment to all of them, but we still need to offer some free trials to see how the product works and how do people respond to it.
 
-In this context, we only observe customer feedback and the binary conversion label (`0` or `1`) **after** providing them with the special offer. This creates a challenge:
+In this context, we only observe customer feedback and the binary conversion label (`0` or `1`) **after** providing them with the free trial offer. This creates a challenge:
 
 **How can we strategically select which customers to query in order to maximize conversions while exploring a diverse range of customer profiles?**
 
