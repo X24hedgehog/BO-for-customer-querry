@@ -2,9 +2,9 @@
 
 ## **Problem Statement**
 
-When dealing with large customer databases, it is often impractical and economically infeasible to provide special treatment to every customer, such as offering a free trial of a product. However, we still need to identify the customers most likely to convert (e.g., purchase the product) to maximize the effectiveness of these special offers.
+Suppose your company just launch a new product and want to sell it. The product attracts a lot of people but not all of them will purchase it, so the company want to offer some free trial of the product to advertise the new characteristic of the product. The dilemma is, we have too many "potential customers", and it is often impractical and economically infeasible to provide such special treatment to all of them, but we still need to offer some free trials to see how the product works and how do people respond to it.
 
-In this context, we only observe customer feedback and the binary conversion label (`0` or `1`) **after** providing them with the special offer. This creates a challenge:
+In this context, we only observe customer feedback and the binary conversion label (`0` or `1`) **after** providing them with the free trial offer. This creates a challenge:
 
 **How can we strategically select which customers to query in order to maximize conversions while exploring a diverse range of customer profiles?**
 
@@ -46,7 +46,13 @@ The **customer score** is derived from two components:
 
 ### **Dataset**
 
-The AI agent works with a dataset containing:
+The original dataset, `customer_conversion_dataset.csv`, is from a Kaggle challenge
+
+I create a set of feedback based on positivity and negativity (feedback that AI agent can have access if they querry the customer), and add them to the original dataset to get `customer.csv`
+
+For testing purpose, I create the `test_dataset.csv` as the sample space of the customers to be querried from, which include information of 5000 customers, and `train_small_customer.csv`, corresponding to the the case if the company has some training data, which allows me to train the GP model.
+
+To conclude, the AI agent works with a dataset containing:
 
 - **Customer Features**: Attributes such as age, location, interaction information (e.g., social media activity), and other demographic/behavioral details.
 - **Feedback and Conversion Status**: Observed **only after querying a customer** (offering a free trial).
@@ -78,9 +84,16 @@ This metric reflects the agent’s efficiency in identifying customers most like
 
 ## **How to run the project**
 
-Run pip install -r requirements.txt to install the required packages
+Run `pip install -r requirements.txt` to install the required packages
 
 Run query_customer.py file to see the result
 
 ---
 
+## **Result**
+
+First, I would like to confirm that the result is simply for reference purpose since it depends on the feedback, which is not from real data but simulated by me.
+
+If you interest in the result, take a look at the `result.txt` file where I have the rate of conversion from querried customers using Bayesian Optimization compared with a naive baseline which simply randomly choose the customer.
+
+---
