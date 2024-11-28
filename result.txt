@@ -1,0 +1,59 @@
+This file contain the test result of querrying 400 customers out of 5000 customers from the sample.
+
+Test result with bayesian optimization to querry the customer
+
+With training of 700 datapoints (Assume we have the data with labeled conversion and feedback of 700 customers)
+
+After querying 25 customer, rate of converted customer found by agent: 10.26%
+After querying 50 customer, rate of converted customer found by agent: 19.23%
+After querying 75 customer, rate of converted customer found by agent: 26.92%
+After querying 100 customer, rate of converted customer found by agent: 35.90%
+After querying 125 customer, rate of converted customer found by agent: 41.03%
+After querying 150 customer, rate of converted customer found by agent: 48.72%
+After querying 175 customer, rate of converted customer found by agent: 55.13%
+After querying 200 customer, rate of converted customer found by agent: 62.82%
+After querying 225 customer, rate of converted customer found by agent: 64.10%
+After querying 250 customer, rate of converted customer found by agent: 71.79%
+After querying 275 customer, rate of converted customer found by agent: 78.21%
+After querying 300 customer, rate of converted customer found by agent: 79.49%
+After querying 325 customer, rate of converted customer found by agent: 80.77%
+After querying 350 customer, rate of converted customer found by agent: 84.62%
+After querying 375 customer, rate of converted customer found by agent: 85.90%
+Rate of converted customer found by agent: 93.59%
+
+Without training (Assume we do not have any data of customer conversion and we update the model on the way we querry customer)
+
+After querying 25 customer, rate of converted customer found by agent: 1.28%
+After querying 50 customer, rate of converted customer found by agent: 2.56%
+After querying 75 customer, rate of converted customer found by agent: 6.41%
+After querying 100 customer, rate of converted customer found by agent: 11.54%
+After querying 125 customer, rate of converted customer found by agent: 14.10%
+After querying 150 customer, rate of converted customer found by agent: 15.38%
+After querying 175 customer, rate of converted customer found by agent: 24.36%
+After querying 200 customer, rate of converted customer found by agent: 30.77%
+After querying 225 customer, rate of converted customer found by agent: 38.46%
+After querying 250 customer, rate of converted customer found by agent: 42.31%
+After querying 275 customer, rate of converted customer found by agent: 47.44%
+After querying 300 customer, rate of converted customer found by agent: 47.44%
+After querying 325 customer, rate of converted customer found by agent: 51.28%
+After querying 350 customer, rate of converted customer found by agent: 56.41%
+After querying 375 customer, rate of converted customer found by agent: 56.41%
+Rate of converted customer found by agent: 64.10%
+
+Baseline result (Random querrying)
+Query 25: Naive Baseline Conversion Rate: 0.00%
+Query 50: Naive Baseline Conversion Rate: 1.28%
+Query 75: Naive Baseline Conversion Rate: 1.28%
+Query 100: Naive Baseline Conversion Rate: 1.28%
+Query 125: Naive Baseline Conversion Rate: 1.28%
+Query 150: Naive Baseline Conversion Rate: 1.28%
+Query 175: Naive Baseline Conversion Rate: 2.56%
+Query 200: Naive Baseline Conversion Rate: 3.85%
+Query 225: Naive Baseline Conversion Rate: 3.85%
+Query 250: Naive Baseline Conversion Rate: 5.13%
+Query 275: Naive Baseline Conversion Rate: 5.13%
+Query 300: Naive Baseline Conversion Rate: 5.13%
+Query 325: Naive Baseline Conversion Rate: 6.41%
+Query 350: Naive Baseline Conversion Rate: 6.41%
+Query 375: Naive Baseline Conversion Rate: 6.41%
+Rate of converted customer found by agent: 7.69%

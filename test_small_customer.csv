@@ -1,0 +1,314 @@
+LeadID,Age,Gender,Location,LeadSource,TimeSpent (minutes),PagesViewed,LeadStatus,EmailSent,DeviceType,ReferralSource,FormSubmissions,Downloads,CTR_ProductPage,ResponseTime (hours),FollowUpEmails,SocialMediaEngagement,PaymentHistory,Conversion,feedback
+22857,35,Male,Lahore,Referral,32,11,Hot,3,Desktop,ReferralSite,0,0,0.3,19,1,28,No Payment,1,The product is amazing!
+22889,35,Male,Islamabad,Organic,15,14,Warm,8,Tablet,Facebook,1,2,0.4,11,9,131,Good,1,"Happy with the purchase, though not exceptional."
+22988,49,Female,Lahore,Organic,13,15,Hot,7,Desktop,Direct,1,3,0.4,12,7,167,No Payment,1,It has improved my workflow significantly.
+23029,34,Male,Karachi,Social Media,25,14,Cold,8,Tablet,Twitter,3,3,0.1,3,5,175,No Payment,1,The quality is impressive for the price.
+23060,33,Male,Karachi,Organic,40,15,Hot,3,Tablet,ReferralSite,4,1,0.6,11,9,75,Good,1,I use it regularly and it meets my expectations.
+23067,36,Male,Islamabad,Email,45,15,Hot,6,Desktop,Twitter,5,3,0.6,23,0,116,No Payment,1,The quality is impressive for the price.
+23120,43,Male,Lahore,Email,54,14,Cold,7,Mobile,Twitter,0,3,0.3,18,4,99,Good,1,I use it regularly and it meets my expectations.
+23122,48,Female,Karachi,Organic,51,14,Warm,6,Tablet,Twitter,5,2,0.3,11,5,196,Good,1,"Satisfied overall, no major complaints."
+23131,40,Male,Lahore,Social Media,42,15,Cold,7,Desktop,Direct,1,3,0.1,17,4,182,Good,1,"Solid product, works as expected."
+23172,32,Male,Karachi,Referral,42,15,Hot,7,Tablet,ReferralSite,1,1,0.5,6,5,175,No Payment,1,This product is quite useful.
+23226,31,Female,Karachi,Email,48,14,Warm,6,Tablet,Twitter,3,0,0.8,21,6,89,Good,1,This product is quite useful.
+23371,38,Male,Lahore,Referral,46,13,Hot,1,Mobile,ReferralSite,5,0,0.8,1,7,173,No Payment,1,The product works well for my needs.
+23450,27,Male,Lahore,Social Media,48,14,Hot,0,Desktop,Facebook,3,1,0.7,16,0,184,Good,1,I really liked the product.
+23572,45,Female,Islamabad,Referral,27,13,Hot,6,Mobile,Google,0,2,0.8,12,9,148,No Payment,1,"It’s nice to have, though not life-changing."
+23573,50,Male,Islamabad,Organic,19,13,Cold,10,Tablet,ReferralSite,4,1,0.4,22,9,24,Good,1,I really liked the product.
+23634,30,Male,Lahore,Organic,16,14,Cold,6,Mobile,Facebook,3,3,0.5,1,6,58,No Payment,1,The product works well for my needs.
+23718,40,Female,Lahore,Email,8,14,Warm,7,Mobile,Facebook,5,3,0.5,8,7,120,No Payment,1,"Satisfied overall, no major complaints."
+23720,27,Female,Karachi,Referral,56,14,Hot,7,Desktop,Direct,0,3,0.5,2,10,101,Good,1,This product is quite useful.
+23748,32,Male,Karachi,Referral,43,13,Hot,10,Tablet,Direct,3,0,0.7,9,7,96,Good,1,It has improved my workflow significantly.
+23781,33,Female,Islamabad,Referral,32,15,Cold,8,Tablet,Direct,4,1,0.1,4,6,181,Good,1,A decent product with good value.
+23808,27,Female,Lahore,Social Media,41,13,Hot,4,Tablet,Direct,5,2,0.4,19,5,58,Good,1,A decent product with good value.
+23854,41,Female,Lahore,Social Media,37,13,Hot,6,Tablet,Google,4,1,0.3,18,9,164,Good,1,"It’s nice to have, though not life-changing."
+24002,50,Female,Islamabad,Organic,8,15,Cold,6,Desktop,Direct,4,1,0.7,3,6,55,No Payment,1,A decent product with good value.
+24018,31,Female,Lahore,Referral,15,13,Cold,8,Mobile,ReferralSite,2,2,0.2,15,9,183,No Payment,1,This is exactly what I was looking for.
+24022,31,Male,Islamabad,Referral,33,15,Hot,7,Tablet,Google,3,1,0.4,3,9,121,No Payment,1,The quality is impressive for the price.
+24043,37,Male,Karachi,Social Media,55,14,Hot,1,Desktop,Direct,0,1,0.7,18,3,116,No Payment,1,I really liked the product.
+24067,36,Female,Karachi,Referral,33,14,Hot,9,Mobile,Direct,0,2,0.3,8,9,93,Good,1,I am generally pleased with the purchase.
+24098,30,Female,Lahore,Email,52,13,Hot,2,Tablet,Direct,5,0,0.6,5,5,199,Good,1,"Solid product, works as expected."
+24099,38,Male,Islamabad,Email,47,11,Hot,8,Tablet,Twitter,4,0,0.4,15,3,90,Good,1,"Happy with the purchase, though not exceptional."
+24125,31,Male,Karachi,Email,36,13,Warm,10,Desktop,ReferralSite,0,0,0.4,19,7,156,Good,1,A decent product with good value.
+24159,45,Male,Karachi,Organic,26,15,Cold,8,Desktop,Facebook,4,3,0.2,18,6,29,Good,1,I use it regularly and it meets my expectations.
+24200,47,Female,Islamabad,Referral,23,15,Cold,6,Mobile,Facebook,3,3,0.7,23,8,35,No Payment,1,It does the job as advertised.
+24203,34,Female,Islamabad,Referral,34,13,Hot,5,Desktop,Facebook,2,1,0.6,22,5,20,Good,1,Great experience!
+24272,35,Female,Karachi,Organic,34,12,Hot,7,Desktop,ReferralSite,1,1,0.5,15,6,147,No Payment,1,This is exactly what I was looking for.
+24378,34,Female,Karachi,Email,45,13,Hot,3,Tablet,Direct,5,2,0.6,17,10,39,No Payment,1,"Happy with the purchase, though not exceptional."
+24399,37,Female,Karachi,Organic,34,13,Hot,2,Mobile,Direct,5,3,0.5,8,8,85,Good,1,This product is quite useful.
+24438,48,Male,Lahore,Social Media,21,15,Hot,10,Mobile,Google,1,0,0.2,8,6,80,Good,1,"Happy with the purchase, though not exceptional."
+24465,28,Female,Lahore,Email,35,11,Hot,9,Mobile,ReferralSite,2,3,0.6,1,5,72,Good,1,"Satisfied overall, no major complaints."
+24616,31,Female,Lahore,Organic,37,15,Warm,9,Mobile,Facebook,4,2,0.6,12,7,76,Good,1,The product works well for my needs.
+24660,39,Male,Lahore,Social Media,50,13,Hot,0,Tablet,Direct,5,0,0.5,7,5,35,Good,1,This product is quite useful.
+24671,42,Female,Islamabad,Email,7,13,Hot,8,Desktop,Twitter,3,1,0.7,14,6,54,No Payment,1,The product works well for my needs.
+24771,34,Female,Lahore,Email,60,13,Hot,2,Tablet,Facebook,5,2,0.3,22,9,97,Good,1,It’s a reliable product.
+24776,37,Male,Lahore,Referral,25,15,Cold,6,Mobile,Twitter,4,0,0.8,5,10,123,No Payment,1,Very satisfied with the service.
+24926,38,Female,Lahore,Organic,55,14,Hot,6,Mobile,Direct,5,1,0.6,2,1,76,No Payment,1,It’s a reliable product.
+24945,46,Male,Islamabad,Social Media,29,15,Cold,10,Desktop,Google,4,0,0.5,7,4,199,No Payment,1,Great experience!
+25083,38,Male,Lahore,Referral,50,12,Hot,6,Desktop,Direct,0,2,0.6,21,4,77,No Payment,1,A decent product with good value.
+25146,35,Female,Lahore,Organic,42,12,Hot,6,Mobile,Twitter,1,3,0.3,6,9,186,Good,1,"Happy with the purchase, though not exceptional."
+25174,31,Male,Lahore,Email,43,11,Hot,6,Desktop,ReferralSite,4,0,0.5,20,7,108,Good,1,The quality is impressive for the price.
+25181,25,Male,Islamabad,Organic,51,11,Hot,0,Desktop,Twitter,0,2,0.1,18,4,81,Good,1,Great experience!
+25185,27,Female,Islamabad,Organic,59,15,Hot,2,Mobile,ReferralSite,0,3,0.7,23,1,32,Good,1,A good choice for anyone considering it.
+25287,32,Male,Karachi,Organic,29,13,Warm,9,Tablet,ReferralSite,0,1,0.7,23,9,127,No Payment,1,Very satisfied with the service.
+25503,31,Female,Karachi,Organic,58,11,Hot,0,Mobile,ReferralSite,0,0,0.1,22,4,61,No Payment,1,I am generally pleased with the purchase.
+25561,36,Female,Islamabad,Email,27,15,Hot,10,Tablet,ReferralSite,1,0,0.5,5,5,187,Good,1,"Happy with the purchase, though not exceptional."
+25580,32,Female,Karachi,Referral,35,13,Hot,5,Mobile,Direct,3,1,0.4,19,5,124,Good,1,The product works well for my needs.
+25602,42,Male,Lahore,Organic,56,15,Hot,9,Mobile,Twitter,5,3,0.4,19,10,41,Good,1,Great experience!
+25604,30,Female,Karachi,Email,9,15,Warm,8,Tablet,ReferralSite,0,0,0.6,5,8,159,No Payment,1,A decent product with good value.
+25660,33,Male,Karachi,Referral,34,12,Hot,10,Desktop,ReferralSite,2,1,0.4,2,1,55,Good,1,A decent product with good value.
+25700,49,Male,Islamabad,Email,19,14,Warm,7,Mobile,Direct,5,3,0.2,24,4,38,No Payment,1,It’s a reliable product.
+25726,42,Female,Karachi,Social Media,50,15,Hot,10,Mobile,ReferralSite,3,1,0.1,16,9,147,Good,1,A decent product with good value.
+25864,28,Male,Islamabad,Social Media,34,11,Hot,2,Desktop,Google,5,2,0.3,23,5,124,No Payment,1,"Happy with the purchase, though not exceptional."
+25898,31,Male,Islamabad,Email,54,14,Hot,5,Desktop,Twitter,5,3,0.5,2,3,75,Good,1,The quality is impressive for the price.
+25946,40,Male,Karachi,Social Media,38,13,Hot,1,Mobile,Direct,2,1,0.2,18,9,93,No Payment,1,It’s a reliable product.
+26131,32,Male,Karachi,Email,41,14,Warm,9,Desktop,Direct,1,3,0.6,21,9,95,Good,1,It’s a reliable product.
+22459,42,Female,Faisalabad,Organic,6,8,Warm,6,Tablet,ReferralSite,1,3,0.5,23,1,136,Good,0,The experience was frustrating.
+4095,50,Female,Peshawar,Social Media,31,3,Cold,6,Desktop,Facebook,5,0,0.2,3,6,59,Good,0,It did not meet my expectations.
+1827,21,Female,Islamabad,Social Media,19,11,Hot,2,Desktop,Direct,5,3,0.4,18,10,34,No Payment,0,Didn’t quite work as expected.
+15997,49,Male,Rawalpindi,Social Media,24,12,Cold,10,Desktop,Google,5,1,0.4,1,10,33,Good,0,The experience was frustrating.
+10032,29,Female,Rawalpindi,Organic,25,10,Warm,7,Mobile,Twitter,5,0,0.6,5,3,130,No Payment,0,A bit underwhelming overall.
+9677,58,Male,Gujranwala,Referral,27,15,Hot,4,Desktop,Google,3,3,0.6,17,4,54,No Payment,0,Feels like it’s missing something.
+10532,43,Male,Multan,Social Media,45,14,Hot,2,Desktop,ReferralSite,1,3,0.8,20,1,27,Good,0,I expected more for the cost.
+285,23,Male,Sialkot,Referral,42,8,Hot,7,Desktop,Google,1,1,0.1,15,6,41,No Payment,0,Disappointing experience.
+12521,52,Male,Quetta,Organic,47,11,Hot,6,Desktop,Facebook,4,3,0.2,2,5,142,No Payment,0,"A good product, but I’m not ready to buy."
+6648,57,Female,Lahore,Organic,52,5,Warm,0,Desktop,Google,3,0,0.8,4,3,100,Good,0,I expected more for the cost.
+23191,59,Female,Karachi,Organic,7,10,Cold,9,Desktop,Twitter,2,3,0.8,6,2,79,No Payment,0,Not as reliable as I hoped.
+25376,34,Female,Peshawar,Referral,29,13,Warm,4,Mobile,Google,3,1,0.4,1,0,29,No Payment,0,Could have been better.
+25355,27,Male,Gujranwala,Social Media,27,3,Cold,7,Mobile,Facebook,1,2,0.4,6,9,88,Good,0,It’s functional but needs improvements.
+6499,31,Male,Lahore,Organic,12,3,Warm,2,Desktop,Twitter,2,2,0.2,13,10,74,No Payment,0,The product quality is okay.
+24895,48,Female,Rawalpindi,Social Media,15,10,Warm,5,Desktop,Direct,1,3,0.7,21,4,79,No Payment,0,"It’s just okay, not great."
+2875,37,Female,Rawalpindi,Email,37,6,Warm,4,Mobile,Twitter,0,3,0.6,22,5,191,Good,0,I might look for alternatives.
+11564,48,Female,Sialkot,Email,41,14,Cold,5,Tablet,Facebook,1,2,0.3,14,7,158,No Payment,0,"Not terrible, but I’ve seen better."
+9113,23,Female,Islamabad,Social Media,57,2,Warm,0,Tablet,Google,5,3,0.5,17,2,189,No Payment,0,"Not terrible, but I’ve seen better."
+13580,39,Female,Sialkot,Organic,11,7,Hot,5,Desktop,Facebook,5,0,0.2,20,8,92,No Payment,0,Disappointing experience.
+14550,53,Female,Gujranwala,Social Media,24,9,Cold,4,Desktop,Direct,2,2,0.1,18,2,58,Good,0,I expected more for the cost.
+2388,36,Female,Quetta,Email,39,5,Warm,3,Mobile,Twitter,0,1,0.7,20,3,26,Good,0,The quality is below average.
+23526,59,Female,Rawalpindi,Referral,34,2,Hot,2,Tablet,ReferralSite,4,3,0.4,9,10,27,Good,0,I quite like the product.
+11034,22,Female,Sialkot,Referral,12,6,Cold,5,Mobile,Direct,1,0,0.4,22,3,167,Good,0,Not a fan of the design.
+2251,40,Male,Quetta,Social Media,18,10,Hot,10,Mobile,Twitter,0,2,0.6,8,5,20,No Payment,0,The product has potential.
+13256,26,Male,Faisalabad,Organic,32,7,Warm,5,Desktop,Facebook,4,3,0.4,4,10,193,Good,0,Not as reliable as I hoped.
+18363,23,Male,Rawalpindi,Social Media,46,12,Hot,9,Desktop,Facebook,3,3,0.7,7,3,35,No Payment,0,It did not meet my expectations.
+19836,43,Male,Faisalabad,Organic,43,8,Hot,3,Mobile,Google,0,3,0.2,4,4,159,No Payment,0,The experience was frustrating.
+22589,55,Female,Islamabad,Referral,20,3,Hot,2,Tablet,Direct,5,0,0.3,12,10,114,Good,0,"It’s okay, but not worth the price."
+4054,49,Female,Rawalpindi,Organic,39,13,Warm,8,Desktop,ReferralSite,1,3,0.5,9,8,31,No Payment,0,"It’s nice, but not what I need."
+3745,23,Female,Lahore,Social Media,36,13,Cold,2,Tablet,Google,0,0,0.4,7,1,62,No Payment,0,A bit underwhelming overall.
+3595,45,Male,Rawalpindi,Referral,42,5,Cold,0,Mobile,Twitter,1,1,0.2,4,3,148,Good,0,Disappointing experience.
+14497,41,Female,Gujranwala,Referral,43,6,Warm,10,Desktop,Direct,0,1,0.1,12,6,194,No Payment,0,A bit underwhelming overall.
+4795,38,Female,Quetta,Email,49,12,Cold,5,Tablet,Twitter,1,0,0.7,22,2,71,Good,0,"Not terrible, but I’ve seen better."
+11731,27,Male,Quetta,Organic,54,15,Warm,7,Mobile,Google,4,2,0.7,18,3,172,No Payment,0,The product has potential.
+24033,23,Female,Sialkot,Email,23,8,Cold,5,Desktop,Facebook,4,1,0.5,2,7,186,Good,0,"A good product, but I’m not ready to buy."
+3506,57,Male,Faisalabad,Referral,52,5,Cold,1,Mobile,ReferralSite,2,2,0.6,2,2,119,Good,0,Could have been better.
+20295,34,Male,Peshawar,Referral,16,4,Warm,1,Mobile,Facebook,1,2,0.7,16,6,138,Good,0,Could have been better.
+9016,55,Male,Karachi,Referral,36,15,Hot,8,Desktop,ReferralSite,1,3,0.5,5,2,174,Good,0,Not a fan of the design.
+22647,31,Male,Multan,Organic,19,7,Hot,3,Desktop,Twitter,5,3,0.4,15,1,113,Good,0,Feels like it’s missing something.
+6706,33,Male,Lahore,Referral,43,2,Hot,2,Mobile,ReferralSite,1,2,0.2,10,6,40,Good,0,"It’s passable, but I wouldn’t recommend it."
+25028,34,Male,Faisalabad,Organic,16,12,Cold,9,Desktop,Google,2,2,0.5,16,9,74,Good,0,Disappointing experience.
+15806,29,Female,Karachi,Referral,19,7,Cold,1,Desktop,Direct,4,2,0.6,6,5,199,No Payment,0,"It’s nice, but not what I need."
+8856,39,Female,Rawalpindi,Referral,17,7,Hot,2,Tablet,Google,5,0,0.7,4,1,165,Good,0,It’s functional but needs improvements.
+506,40,Female,Faisalabad,Email,58,4,Warm,10,Tablet,Facebook,3,1,0.4,18,2,27,Good,0,A bit underwhelming overall.
+18633,45,Female,Multan,Social Media,9,7,Cold,10,Tablet,Facebook,0,1,0.6,17,4,21,No Payment,0,I might look for alternatives.
+12876,51,Female,Multan,Social Media,18,3,Cold,3,Desktop,Facebook,2,2,0.3,9,2,59,Good,0,The product has potential.
+11502,29,Female,Peshawar,Organic,57,13,Hot,0,Desktop,Direct,0,3,0.4,17,10,81,Good,0,"I like it, but the price is too high."
+1621,31,Female,Quetta,Email,30,3,Cold,8,Tablet,Twitter,0,0,0.5,22,1,49,No Payment,0,"It’s decent, but not for me."
+12253,26,Female,Lahore,Referral,49,5,Cold,5,Mobile,Direct,1,1,0.4,12,8,184,No Payment,0,"It’s decent, but not for me."
+3754,43,Female,Quetta,Organic,14,14,Cold,1,Desktop,Direct,4,3,0.8,15,10,186,Good,0,I don't like the product.
+19075,31,Male,Lahore,Email,56,8,Cold,7,Mobile,Direct,3,3,0.3,16,6,88,No Payment,0,The quality is below average.
+2133,38,Female,Peshawar,Organic,21,11,Hot,1,Desktop,Google,4,3,0.2,19,4,92,Good,0,"I’m satisfied, but it’s not a fit for me."
+4952,36,Male,Quetta,Email,41,11,Cold,4,Desktop,Google,1,3,0.1,13,9,92,Good,0,The quality is below average.
+14759,42,Male,Lahore,Organic,14,2,Warm,3,Mobile,Twitter,2,0,0.1,7,1,179,No Payment,0,"It’s okay, but not worth the price."
+2838,47,Female,Islamabad,Referral,13,8,Cold,9,Mobile,Facebook,4,0,0.5,2,10,53,No Payment,0,I expected more for the cost.
+6343,46,Female,Karachi,Referral,22,10,Cold,1,Mobile,Direct,5,3,0.8,1,3,143,Good,0,Not a fan of the design.
+5738,48,Female,Gujranwala,Social Media,15,6,Hot,0,Desktop,Google,2,1,0.4,16,3,35,No Payment,0,Not satisfied at all.
+23753,54,Male,Karachi,Email,19,9,Warm,2,Desktop,ReferralSite,5,1,0.4,12,3,133,No Payment,0,It’s functional but needs improvements.
+12770,57,Male,Gujranwala,Email,39,5,Hot,8,Mobile,Google,4,3,0.6,9,9,160,No Payment,0,Feels like it’s missing something.
+13563,30,Female,Faisalabad,Social Media,48,2,Cold,4,Tablet,Facebook,5,1,0.4,9,7,200,Good,0,The product is not bad.
+17145,21,Male,Karachi,Social Media,56,7,Warm,5,Mobile,Twitter,4,0,0.5,22,2,124,Good,0,"It’s okay, but not worth the price."
+17253,35,Male,Sialkot,Organic,54,13,Hot,4,Desktop,Facebook,4,1,0.4,4,5,169,Good,0,"A good product, but I’m not ready to buy."
+5582,59,Male,Quetta,Referral,14,8,Cold,10,Mobile,Direct,0,0,0.7,8,1,171,Good,0,Didn’t quite work as expected.
+8852,38,Female,Quetta,Referral,40,8,Warm,2,Mobile,Facebook,0,0,0.7,14,10,90,Good,0,The quality is below average.
+1056,28,Male,Quetta,Email,47,4,Hot,1,Desktop,Google,0,1,0.8,19,6,68,Good,0,Could have been better.
+16975,39,Female,Lahore,Social Media,55,10,Hot,6,Tablet,ReferralSite,4,3,0.7,6,3,150,Good,0,"It’s decent, but not for me."
+10234,32,Female,Gujranwala,Organic,17,9,Cold,4,Mobile,Google,1,0,0.4,10,2,188,No Payment,0,"I like it, but the price is too high."
+8226,36,Male,Islamabad,Social Media,7,6,Warm,3,Desktop,Facebook,4,2,0.5,1,2,20,No Payment,0,Feels like it’s missing something.
+2245,50,Female,Gujranwala,Referral,38,14,Warm,0,Mobile,Direct,4,2,0.5,2,9,68,No Payment,0,I might look for alternatives.
+21964,42,Male,Islamabad,Social Media,6,11,Cold,1,Mobile,Google,0,1,0.8,13,2,26,Good,0,"It’s decent, but not for me."
+6377,23,Female,Karachi,Social Media,57,14,Hot,8,Tablet,Google,3,0,0.5,5,4,165,No Payment,0,It did not meet my expectations.
+21728,23,Male,Faisalabad,Email,11,14,Cold,2,Desktop,Google,2,1,0.4,20,4,109,Good,0,"I’m satisfied, but it’s not a fit for me."
+24696,26,Female,Sialkot,Organic,51,13,Hot,2,Desktop,ReferralSite,1,0,0.5,4,4,38,Good,0,The product has potential.
+24684,28,Female,Peshawar,Email,50,2,Hot,6,Mobile,Twitter,4,1,0.6,18,1,159,No Payment,0,Feels like it’s missing something.
+6818,23,Female,Islamabad,Referral,23,10,Cold,6,Desktop,Facebook,1,2,0.6,2,10,45,Good,0,I expected more for the cost.
+2375,45,Male,Lahore,Email,20,7,Hot,0,Tablet,Direct,5,2,0.1,10,5,56,Good,0,Not satisfied at all.
+15231,38,Male,Gujranwala,Organic,31,14,Cold,4,Desktop,Google,2,0,0.3,5,8,183,Good,0,"It’s decent, but not for me."
+5420,55,Female,Peshawar,Organic,45,4,Hot,10,Desktop,Facebook,5,3,0.3,8,2,52,Good,0,I quite like the product.
+16690,49,Female,Islamabad,Social Media,36,15,Hot,0,Mobile,Google,0,2,0.7,21,3,148,Good,0,"Not terrible, but I’ve seen better."
+7680,28,Female,Sialkot,Organic,41,3,Cold,2,Desktop,Twitter,3,1,0.3,12,10,172,Good,0,Didn’t quite work as expected.
+16357,29,Male,Karachi,Social Media,32,12,Cold,4,Desktop,Facebook,1,3,0.2,9,5,73,Good,0,Feels like it’s missing something.
+17166,58,Female,Islamabad,Social Media,24,7,Warm,7,Mobile,Direct,5,0,0.2,16,7,178,No Payment,0,The product has potential.
+7801,52,Female,Karachi,Organic,14,8,Hot,0,Desktop,Direct,3,2,0.3,18,4,172,No Payment,0,Didn’t quite work as expected.
+3294,26,Male,Quetta,Organic,35,14,Hot,9,Mobile,Facebook,0,0,0.8,16,4,28,No Payment,0,Not a fan of the design.
+15313,58,Female,Islamabad,Social Media,46,5,Hot,10,Mobile,Twitter,5,2,0.6,2,8,129,Good,0,"It’s decent, but not for me."
+22490,52,Male,Faisalabad,Organic,22,4,Cold,5,Tablet,Direct,3,3,0.4,20,7,26,Good,0,"I’m satisfied, but it’s not a fit for me."
+18827,29,Male,Rawalpindi,Social Media,47,5,Warm,5,Desktop,Facebook,2,2,0.3,10,0,49,Good,0,"I’m satisfied, but it’s not a fit for me."
+12529,34,Male,Multan,Organic,54,4,Cold,5,Desktop,Direct,4,3,0.4,7,0,95,No Payment,0,"I’m satisfied, but it’s not a fit for me."
+10061,31,Female,Faisalabad,Social Media,49,15,Hot,3,Tablet,Twitter,0,1,0.2,2,9,126,Good,0,Not satisfied at all.
+4287,52,Female,Multan,Referral,44,13,Hot,8,Tablet,Direct,0,1,0.3,7,9,160,No Payment,0,I might look for alternatives.
+24214,32,Male,Multan,Email,22,11,Hot,0,Tablet,ReferralSite,1,3,0.6,6,9,103,No Payment,0,Could have been better.
+21210,31,Female,Peshawar,Referral,35,14,Hot,0,Desktop,Google,4,3,0.5,2,7,176,No Payment,0,"It’s useful, but not for my current situation."
+25549,42,Female,Karachi,Email,60,7,Warm,6,Mobile,Direct,4,2,0.8,2,9,99,No Payment,0,"It’s nice, but not what I need."
+23402,56,Female,Sialkot,Social Media,17,9,Hot,10,Tablet,Direct,3,3,0.7,18,8,61,No Payment,0,The quality is below average.
+18757,29,Female,Sialkot,Email,16,4,Warm,2,Mobile,ReferralSite,4,1,0.2,5,2,76,Good,0,I might look for alternatives.
+2771,33,Male,Islamabad,Organic,54,11,Cold,8,Mobile,Facebook,1,0,0.3,6,4,88,No Payment,0,I quite like the product.
+14071,45,Female,Peshawar,Referral,8,14,Warm,9,Desktop,Google,2,1,0.4,13,1,52,No Payment,0,"I like it, but the price is too high."
+24749,45,Female,Sialkot,Social Media,16,9,Hot,6,Desktop,Twitter,3,1,0.3,4,5,87,No Payment,0,The product is not bad.
+13757,30,Female,Sialkot,Email,40,10,Hot,8,Tablet,ReferralSite,4,0,0.6,2,3,96,No Payment,0,Could have been better.
+7704,40,Female,Rawalpindi,Organic,25,3,Cold,8,Tablet,Facebook,5,2,0.2,13,10,35,No Payment,0,Disappointing experience.
+25918,34,Female,Islamabad,Email,42,11,Cold,0,Tablet,ReferralSite,5,2,0.5,24,9,20,Good,0,"I’m satisfied, but it’s not a fit for me."
+427,22,Female,Karachi,Referral,14,8,Cold,5,Mobile,Twitter,5,0,0.2,19,10,49,No Payment,0,Not a fan of the design.
+4754,47,Female,Karachi,Email,48,11,Hot,0,Desktop,Direct,1,2,0.7,13,5,91,Good,0,"I like it, but the price is too high."
+23505,30,Female,Faisalabad,Referral,57,11,Cold,10,Tablet,Facebook,4,1,0.3,14,6,199,No Payment,0,Not a fan of the design.
+3326,28,Male,Gujranwala,Social Media,54,10,Warm,2,Tablet,Facebook,2,0,0.2,8,6,98,No Payment,0,I expected more for the cost.
+314,46,Male,Peshawar,Email,35,3,Hot,2,Desktop,ReferralSite,1,1,0.1,19,8,61,No Payment,0,Not satisfied at all.
+24800,35,Female,Multan,Organic,38,13,Cold,4,Mobile,ReferralSite,0,0,0.2,20,2,94,No Payment,0,"It’s passable, but I wouldn’t recommend it."
+18516,22,Female,Lahore,Email,16,5,Cold,8,Tablet,Direct,2,0,0.4,21,6,117,No Payment,0,The product has potential.
+13859,22,Male,Islamabad,Organic,39,11,Warm,5,Mobile,ReferralSite,5,3,0.7,24,7,159,Good,0,"It’s useful, but not for my current situation."
+10784,22,Female,Karachi,Organic,12,15,Hot,3,Tablet,Twitter,5,3,0.2,8,3,35,Good,0,"It’s just okay, not great."
+19283,58,Female,Rawalpindi,Email,18,5,Cold,5,Mobile,Facebook,1,3,0.4,8,4,180,No Payment,0,The quality is below average.
+3789,60,Male,Gujranwala,Organic,34,4,Hot,3,Desktop,ReferralSite,0,1,0.6,20,0,79,Good,0,"It’s decent, but not for me."
+15665,43,Female,Faisalabad,Organic,58,14,Cold,2,Desktop,Google,2,1,0.5,2,8,96,No Payment,0,The quality is below average.
+8035,33,Female,Islamabad,Referral,51,4,Warm,4,Desktop,Twitter,0,3,0.1,9,7,194,Good,0,The product has potential.
+14925,32,Male,Multan,Social Media,43,14,Hot,4,Desktop,Facebook,0,2,0.5,7,1,76,Good,0,"It’s okay, but not worth the price."
+24821,57,Male,Faisalabad,Referral,6,9,Warm,1,Mobile,Direct,4,2,0.8,4,2,107,Good,0,It did not meet my expectations.
+9663,26,Female,Peshawar,Social Media,8,2,Cold,1,Mobile,Facebook,2,1,0.3,4,6,60,Good,0,I quite like the product.
+17673,41,Female,Sialkot,Email,23,12,Hot,10,Tablet,Google,0,3,0.8,19,10,111,Good,0,The product has potential.
+4945,50,Female,Faisalabad,Email,16,3,Cold,10,Tablet,Direct,4,0,0.5,18,10,67,Good,0,This product didn’t work well for me.
+21837,57,Male,Islamabad,Social Media,58,13,Hot,1,Tablet,Facebook,0,0,0.6,9,0,103,No Payment,0,This product didn’t work well for me.
+24234,27,Male,Peshawar,Organic,32,7,Cold,6,Desktop,Direct,5,0,0.3,10,2,27,Good,0,It’s functional but needs improvements.
+11705,30,Male,Gujranwala,Referral,41,12,Cold,9,Mobile,Google,3,0,0.3,24,5,123,No Payment,0,Feels like it’s missing something.
+17493,24,Male,Lahore,Organic,21,9,Hot,5,Desktop,Direct,4,1,0.2,20,5,109,Good,0,I quite like the product.
+7783,27,Male,Gujranwala,Organic,34,8,Warm,7,Desktop,Direct,5,1,0.2,7,2,111,No Payment,0,"It’s useful, but not for my current situation."
+7164,30,Male,Islamabad,Email,5,14,Warm,4,Mobile,Facebook,5,2,0.7,14,10,64,No Payment,0,It’s functional but needs improvements.
+3755,45,Male,Lahore,Referral,15,11,Cold,6,Tablet,Facebook,3,3,0.5,15,7,56,No Payment,0,I expected more for the cost.
+1133,24,Female,Gujranwala,Social Media,18,5,Hot,0,Tablet,Google,3,1,0.6,1,3,59,Good,0,Could have been better.
+14886,32,Male,Rawalpindi,Referral,21,6,Warm,4,Mobile,ReferralSite,3,2,0.6,18,0,142,Good,0,"It’s just okay, not great."
+17899,47,Female,Quetta,Email,7,8,Cold,1,Mobile,Direct,0,1,0.7,23,1,111,No Payment,0,Not a fan of the design.
+1703,59,Female,Islamabad,Social Media,38,14,Hot,6,Mobile,ReferralSite,4,3,0.3,7,0,82,Good,0,Not a fan of the design.
+6895,30,Male,Faisalabad,Organic,29,15,Warm,3,Desktop,ReferralSite,1,0,0.6,4,9,33,No Payment,0,This product didn’t work well for me.
+13425,23,Female,Rawalpindi,Email,40,2,Warm,0,Desktop,Google,1,3,0.7,24,0,194,No Payment,0,I might look for alternatives.
+17053,47,Female,Gujranwala,Referral,50,8,Cold,3,Desktop,Google,5,2,0.2,13,7,81,No Payment,0,Feels like it’s missing something.
+12052,40,Male,Rawalpindi,Email,49,11,Cold,5,Tablet,Facebook,0,2,0.3,18,2,115,No Payment,0,The product is not bad.
+2805,34,Female,Multan,Social Media,21,5,Cold,0,Mobile,ReferralSite,0,3,0.8,11,4,149,No Payment,0,Disappointing experience.
+3307,30,Male,Peshawar,Social Media,25,13,Hot,7,Tablet,Google,5,3,0.2,8,8,164,No Payment,0,"It’s just okay, not great."
+14236,25,Female,Faisalabad,Referral,28,9,Cold,8,Desktop,Google,1,0,0.2,24,2,59,No Payment,0,"It’s nice, but not what I need."
+15538,49,Female,Gujranwala,Referral,55,9,Hot,5,Mobile,Google,3,2,0.6,6,3,146,Good,0,The quality is below average.
+1823,60,Female,Gujranwala,Email,15,3,Cold,3,Mobile,ReferralSite,3,1,0.4,23,7,36,No Payment,0,It’s functional but needs improvements.
+20318,56,Female,Islamabad,Organic,43,13,Cold,8,Mobile,Facebook,1,0,0.5,14,4,157,No Payment,0,The quality is below average.
+13241,47,Male,Faisalabad,Referral,47,9,Hot,10,Desktop,Facebook,5,0,0.7,2,5,170,Good,0,This product didn’t work well for me.
+7771,22,Male,Gujranwala,Email,50,8,Hot,1,Tablet,Twitter,5,3,0.3,21,1,198,No Payment,0,"It’s okay, but not worth the price."
+10879,46,Male,Sialkot,Email,40,6,Hot,10,Mobile,Direct,2,1,0.2,20,5,137,Good,0,"Not terrible, but I’ve seen better."
+25250,27,Male,Sialkot,Referral,43,5,Warm,4,Mobile,Facebook,2,0,0.4,21,2,84,Good,0,It did not meet my expectations.
+3643,47,Male,Quetta,Social Media,55,5,Hot,8,Mobile,Facebook,1,1,0.4,23,10,85,Good,0,The product is not bad.
+8477,29,Male,Rawalpindi,Social Media,46,12,Warm,9,Tablet,ReferralSite,3,3,0.7,20,4,110,Good,0,Could have been better.
+21774,42,Male,Rawalpindi,Social Media,55,9,Warm,10,Mobile,Twitter,4,3,0.4,3,8,181,No Payment,0,"It’s just okay, not great."
+12457,39,Female,Islamabad,Social Media,15,2,Hot,7,Tablet,Facebook,0,2,0.4,14,4,164,No Payment,0,Feels like it’s missing something.
+22580,45,Male,Karachi,Organic,40,9,Hot,2,Desktop,Facebook,1,0,0.2,17,4,193,Good,0,"It’s okay, but not worth the price."
+14050,30,Female,Quetta,Social Media,8,13,Hot,10,Mobile,Twitter,1,3,0.4,19,3,43,Good,0,I might look for alternatives.
+8164,56,Female,Sialkot,Organic,21,4,Hot,2,Desktop,Twitter,4,3,0.2,12,4,174,Good,0,I might look for alternatives.
+25986,25,Male,Gujranwala,Referral,17,14,Hot,1,Desktop,ReferralSite,5,0,0.6,18,8,100,Good,0,"I’m satisfied, but it’s not a fit for me."
+1201,24,Female,Sialkot,Social Media,12,15,Cold,2,Desktop,ReferralSite,4,1,0.4,16,6,136,Good,0,Feels like it’s missing something.
+5853,60,Male,Rawalpindi,Social Media,32,3,Warm,10,Desktop,Facebook,3,3,0.5,18,2,198,No Payment,0,It’s functional but needs improvements.
+21166,55,Male,Lahore,Organic,55,11,Hot,1,Mobile,ReferralSite,5,2,0.4,3,0,153,Good,0,A bit underwhelming overall.
+4764,31,Male,Multan,Organic,39,6,Cold,0,Tablet,Google,1,3,0.7,5,9,167,No Payment,0,Not a fan of the design.
+8633,28,Female,Karachi,Organic,15,6,Warm,7,Desktop,Twitter,1,0,0.7,12,4,113,Good,0,"It’s just okay, not great."
+6415,46,Male,Quetta,Referral,36,7,Hot,5,Tablet,Google,2,3,0.5,16,8,51,No Payment,0,Not satisfied at all.
+5047,30,Female,Faisalabad,Social Media,25,8,Cold,9,Mobile,Direct,5,0,0.2,20,3,57,Good,0,The experience was frustrating.
+7377,56,Male,Sialkot,Referral,26,10,Cold,9,Desktop,Twitter,4,3,0.4,21,7,147,No Payment,0,The quality is below average.
+12158,20,Female,Lahore,Social Media,43,7,Hot,3,Desktop,Google,2,2,0.1,23,7,25,Good,0,The experience was frustrating.
+5154,42,Male,Faisalabad,Social Media,33,4,Cold,3,Mobile,Direct,5,3,0.4,7,6,131,Good,0,I quite like the product.
+17401,58,Female,Lahore,Email,57,9,Hot,1,Mobile,Facebook,1,3,0.7,12,0,79,No Payment,0,I might look for alternatives.
+7269,49,Male,Faisalabad,Organic,13,10,Cold,6,Desktop,Direct,1,0,0.4,9,4,117,Good,0,Feels like it’s missing something.
+14965,33,Male,Sialkot,Organic,57,5,Cold,9,Tablet,Twitter,2,0,0.4,9,0,34,No Payment,0,I expected more for the cost.
+18805,53,Female,Sialkot,Email,53,2,Warm,1,Desktop,ReferralSite,3,1,0.4,20,8,143,Good,0,"Not terrible, but I’ve seen better."
+18839,30,Male,Quetta,Organic,45,4,Cold,9,Mobile,Facebook,1,0,0.4,4,4,134,Good,0,Disappointing experience.
+25650,56,Male,Islamabad,Organic,28,13,Warm,0,Tablet,Direct,4,3,0.2,21,10,20,Good,0,"It’s okay, but not worth the price."
+8415,47,Male,Multan,Email,31,15,Cold,10,Mobile,Direct,0,1,0.6,18,6,118,Good,0,Could have been better.
+10371,50,Female,Rawalpindi,Referral,51,12,Warm,4,Tablet,Twitter,4,2,0.7,12,3,131,Good,0,It did not meet my expectations.
+5632,37,Male,Rawalpindi,Referral,47,6,Hot,0,Tablet,Direct,5,3,0.5,19,7,163,Good,0,I don't like the product.
+325,28,Female,Quetta,Organic,6,15,Hot,9,Tablet,Direct,5,0,0.5,3,9,90,Good,0,The product is not bad.
+1004,38,Male,Rawalpindi,Social Media,33,5,Cold,8,Desktop,Google,3,0,0.7,22,3,149,No Payment,0,"I’m satisfied, but it’s not a fit for me."
+4476,46,Female,Gujranwala,Organic,35,14,Cold,0,Mobile,Facebook,3,0,0.7,24,5,175,Good,0,The quality is below average.
+16224,25,Female,Karachi,Referral,43,8,Cold,2,Desktop,Facebook,4,2,0.6,2,4,52,Good,0,The product is not bad.
+9307,49,Male,Sialkot,Social Media,8,2,Cold,7,Tablet,ReferralSite,2,1,0.3,14,4,92,Good,0,I expected more for the cost.
+12818,58,Male,Multan,Organic,39,5,Hot,3,Tablet,Google,5,1,0.6,11,6,22,Good,0,"It’s useful, but not for my current situation."
+12421,29,Female,Quetta,Organic,21,11,Warm,3,Mobile,Google,4,2,0.8,10,3,59,Good,0,I might look for alternatives.
+12436,44,Male,Rawalpindi,Email,22,2,Cold,10,Tablet,Google,3,0,0.1,2,9,102,No Payment,0,"Not terrible, but I’ve seen better."
+4263,24,Male,Peshawar,Email,35,10,Cold,4,Tablet,Twitter,2,0,0.7,6,9,37,Good,0,Not as reliable as I hoped.
+17935,51,Male,Multan,Referral,38,3,Cold,8,Tablet,Direct,0,2,0.3,8,5,136,Good,0,I don't like the product.
+16860,46,Male,Karachi,Referral,46,3,Cold,3,Desktop,ReferralSite,2,3,0.7,16,4,79,No Payment,0,"It’s okay, but not worth the price."
+682,30,Male,Multan,Email,7,3,Cold,9,Tablet,Twitter,0,3,0.6,6,6,29,No Payment,0,Could have been better.
+648,40,Female,Islamabad,Email,36,6,Warm,3,Desktop,Twitter,3,2,0.8,8,4,122,Good,0,Could have been better.
+18510,25,Female,Sialkot,Email,13,4,Hot,7,Mobile,Google,3,2,0.2,5,10,128,Good,0,It’s functional but needs improvements.
+10664,44,Female,Sialkot,Email,60,5,Warm,10,Desktop,Direct,0,1,0.8,3,9,64,Good,0,I might look for alternatives.
+2784,44,Male,Rawalpindi,Email,25,7,Hot,10,Tablet,Facebook,3,2,0.4,2,0,22,No Payment,0,This product didn’t work well for me.
+11054,58,Male,Quetta,Referral,6,6,Hot,1,Desktop,Twitter,2,3,0.3,21,9,135,Good,0,"It’s okay, but not worth the price."
+23981,34,Female,Multan,Referral,17,8,Cold,7,Tablet,Twitter,0,0,0.6,2,3,38,Good,0,I expected more for the cost.
+19117,33,Male,Rawalpindi,Email,43,9,Hot,5,Desktop,Twitter,3,1,0.3,20,7,117,No Payment,0,I expected more for the cost.
+14498,24,Male,Faisalabad,Social Media,36,10,Cold,1,Tablet,Facebook,5,2,0.6,4,6,158,Good,0,"It’s nice, but not what I need."
+875,30,Male,Karachi,Email,33,5,Cold,8,Mobile,Direct,0,2,0.7,15,3,26,No Payment,0,I might look for alternatives.
+10774,20,Male,Lahore,Referral,16,11,Hot,7,Tablet,Twitter,2,0,0.8,16,9,99,Good,0,The experience was frustrating.
+18178,36,Female,Karachi,Referral,8,12,Hot,7,Tablet,Google,1,0,0.8,9,5,104,No Payment,0,I expected more for the cost.
+23960,42,Female,Gujranwala,Social Media,55,3,Hot,4,Mobile,Direct,2,3,0.2,3,2,123,No Payment,0,"It’s useful, but not for my current situation."
+8630,45,Female,Islamabad,Referral,38,7,Warm,1,Mobile,Twitter,5,2,0.3,13,5,53,No Payment,0,I don't like the product.
+24542,22,Female,Rawalpindi,Social Media,34,13,Warm,2,Tablet,Direct,1,2,0.3,19,7,52,No Payment,0,Feels like it’s missing something.
+152,39,Female,Islamabad,Referral,28,14,Warm,8,Tablet,Twitter,3,0,0.3,20,1,193,Good,0,The experience was frustrating.
+14624,28,Female,Quetta,Organic,25,3,Cold,8,Desktop,Facebook,2,3,0.6,18,6,40,No Payment,0,Could have been better.
+14412,35,Female,Rawalpindi,Referral,39,10,Hot,5,Mobile,Direct,5,2,0.3,10,0,186,Good,0,Could have been better.
+24585,26,Female,Rawalpindi,Social Media,26,2,Warm,9,Mobile,ReferralSite,2,1,0.7,17,3,103,Good,0,"I like it, but the price is too high."
+10013,52,Female,Multan,Organic,52,9,Hot,7,Tablet,Twitter,4,0,0.6,19,6,110,Good,0,"Not terrible, but I’ve seen better."
+25444,28,Female,Karachi,Social Media,33,4,Warm,3,Mobile,Facebook,3,0,0.7,19,10,182,Good,0,I might look for alternatives.
+24404,40,Male,Multan,Social Media,60,5,Warm,5,Mobile,Twitter,2,1,0.2,8,2,20,Good,0,"Not terrible, but I’ve seen better."
+12225,23,Female,Faisalabad,Organic,28,12,Warm,0,Tablet,Facebook,1,1,0.4,20,8,26,No Payment,0,A bit underwhelming overall.
+14353,38,Male,Karachi,Organic,34,9,Cold,5,Tablet,Twitter,1,0,0.4,22,3,92,Good,0,"A good product, but I’m not ready to buy."
+6984,24,Male,Islamabad,Organic,17,2,Cold,7,Mobile,Facebook,0,1,0.3,22,10,114,No Payment,0,I might look for alternatives.
+19442,52,Male,Karachi,Email,35,3,Warm,5,Desktop,Google,2,3,0.7,7,3,90,No Payment,0,Could have been better.
+7551,59,Male,Islamabad,Referral,20,14,Cold,5,Desktop,ReferralSite,5,0,0.6,13,4,199,Good,0,Feels like it’s missing something.
+22780,42,Female,Sialkot,Social Media,34,5,Hot,5,Mobile,Twitter,4,0,0.7,9,3,194,No Payment,0,The quality is below average.
+1488,33,Female,Quetta,Email,40,6,Cold,7,Mobile,ReferralSite,5,0,0.3,21,10,153,No Payment,0,Not a fan of the design.
+15343,26,Male,Karachi,Email,42,3,Hot,5,Tablet,Direct,3,2,0.3,12,10,143,Good,0,"It’s just okay, not great."
+23255,51,Female,Gujranwala,Social Media,12,8,Hot,5,Tablet,Google,5,2,0.3,18,7,178,No Payment,0,I might look for alternatives.
+2492,25,Male,Gujranwala,Referral,26,3,Warm,1,Desktop,Direct,4,2,0.1,24,7,175,Good,0,"It’s passable, but I wouldn’t recommend it."
+26065,31,Male,Rawalpindi,Referral,41,5,Hot,7,Tablet,Direct,3,3,0.3,7,10,40,No Payment,0,I expected more for the cost.
+13331,60,Female,Karachi,Social Media,44,4,Hot,8,Desktop,Twitter,4,3,0.5,20,1,24,No Payment,0,"It’s useful, but not for my current situation."
+9445,39,Male,Quetta,Referral,30,10,Cold,6,Tablet,Twitter,4,0,0.1,3,2,177,No Payment,0,I don't like the product.
+25143,53,Male,Sialkot,Email,58,5,Cold,9,Mobile,Google,4,3,0.4,10,4,46,Good,0,Not a fan of the design.
+14833,24,Female,Islamabad,Organic,41,7,Warm,6,Desktop,Facebook,1,2,0.5,16,7,67,No Payment,0,"It’s passable, but I wouldn’t recommend it."
+15258,46,Female,Gujranwala,Social Media,11,7,Hot,5,Tablet,Facebook,1,3,0.2,21,6,83,Good,0,"Not terrible, but I’ve seen better."
+11184,45,Male,Karachi,Email,30,11,Cold,8,Tablet,Direct,1,2,0.4,7,4,184,No Payment,0,"I’m satisfied, but it’s not a fit for me."
+20950,60,Female,Peshawar,Referral,26,5,Hot,2,Mobile,Twitter,0,2,0.4,17,2,157,No Payment,0,"I’m satisfied, but it’s not a fit for me."
+10844,53,Male,Islamabad,Organic,56,7,Warm,10,Desktop,ReferralSite,1,3,0.6,18,4,166,No Payment,0,"It’s nice, but not what I need."
+20549,49,Female,Islamabad,Email,9,6,Cold,0,Tablet,Facebook,3,0,0.2,7,5,131,Good,0,Not a fan of the design.
+11051,52,Female,Faisalabad,Referral,27,11,Hot,9,Tablet,ReferralSite,3,2,0.7,16,7,76,No Payment,0,A bit underwhelming overall.
+18259,56,Male,Quetta,Email,54,4,Hot,2,Mobile,Google,3,3,0.6,16,10,87,No Payment,0,I don't like the product.
+24086,54,Female,Karachi,Referral,32,10,Warm,8,Mobile,Twitter,2,3,0.5,18,0,81,No Payment,0,Could have been better.
+22827,38,Female,Sialkot,Referral,46,11,Warm,2,Desktop,ReferralSite,5,0,0.2,23,2,177,Good,0,I quite like the product.
+9401,59,Male,Sialkot,Referral,21,13,Warm,10,Tablet,ReferralSite,4,2,0.3,18,3,149,No Payment,0,Not satisfied at all.
+17586,29,Female,Lahore,Organic,29,14,Cold,5,Desktop,Twitter,1,2,0.1,2,1,98,Good,0,I might look for alternatives.
+24628,55,Male,Sialkot,Organic,6,13,Cold,7,Desktop,Google,3,3,0.4,20,3,184,Good,0,I expected more for the cost.
+5436,40,Female,Quetta,Referral,54,8,Warm,9,Desktop,ReferralSite,4,1,0.4,21,4,104,No Payment,0,Not a fan of the design.
+9679,54,Male,Karachi,Organic,21,5,Warm,6,Mobile,Twitter,2,3,0.2,9,7,49,No Payment,0,It’s functional but needs improvements.
+25532,36,Male,Islamabad,Organic,17,6,Warm,1,Tablet,Google,2,2,0.3,5,10,94,Good,0,It did not meet my expectations.
+25256,41,Male,Lahore,Email,19,8,Cold,1,Mobile,Direct,4,0,0.4,8,9,134,Good,0,Feels like it’s missing something.
+17256,37,Female,Multan,Referral,7,6,Cold,2,Mobile,Direct,5,1,0.6,13,5,67,Good,0,Could have been better.
+12819,44,Female,Lahore,Email,45,10,Hot,8,Desktop,Twitter,5,3,0.5,19,2,138,No Payment,0,"It’s just okay, not great."
+10725,44,Male,Sialkot,Referral,43,6,Hot,4,Tablet,Google,0,0,0.2,2,1,184,Good,0,"A good product, but I’m not ready to buy."
+3589,33,Male,Lahore,Organic,24,10,Warm,6,Desktop,Facebook,2,3,0.6,22,1,195,No Payment,0,The product has potential.
+3008,48,Female,Peshawar,Social Media,39,14,Hot,6,Mobile,Twitter,1,1,0.3,10,2,80,No Payment,0,"It’s useful, but not for my current situation."
+22265,43,Female,Sialkot,Organic,56,5,Warm,9,Desktop,Google,3,1,0.8,13,7,106,No Payment,0,The quality is below average.
+13964,57,Male,Islamabad,Social Media,34,2,Warm,1,Mobile,Google,3,1,0.5,8,5,86,No Payment,0,I expected more for the cost.
+5296,32,Male,Quetta,Social Media,52,7,Hot,5,Desktop,Twitter,5,1,0.6,11,7,139,Good,0,A bit underwhelming overall.
+3537,46,Male,Gujranwala,Organic,59,4,Hot,8,Mobile,Facebook,0,2,0.6,10,3,148,Good,0,A bit underwhelming overall.
+16488,55,Male,Karachi,Organic,33,12,Cold,0,Mobile,Google,0,3,0.3,3,0,168,No Payment,0,The quality is below average.
+18978,60,Male,Karachi,Social Media,31,9,Cold,3,Mobile,Direct,2,2,0.4,6,10,113,Good,0,The experience was frustrating.
+8509,25,Male,Peshawar,Referral,43,9,Hot,2,Tablet,ReferralSite,0,2,0.6,23,5,193,No Payment,0,"Not terrible, but I’ve seen better."
+1920,22,Male,Multan,Referral,34,5,Cold,9,Desktop,Direct,0,3,0.4,4,10,97,Good,0,I don't like the product.
+13247,29,Male,Faisalabad,Referral,54,8,Hot,5,Tablet,Google,0,0,0.7,22,3,54,Good,0,It’s functional but needs improvements.
+517,60,Female,Quetta,Email,32,15,Hot,8,Tablet,Google,0,1,0.3,12,0,115,No Payment,0,I expected more for the cost.
