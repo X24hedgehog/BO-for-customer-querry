@@ -46,7 +46,11 @@ The **customer score** is derived from two components:
 
 ### **Dataset**
 
-The AI agent works with a dataset containing:
+The original dataset, customer_conversion_dataset.csv, is from a Kaggle challenge
+
+I create a set of feedback based on positivity and negativity (feedback that AI agent can have access if they querry the customer), and add them to the original dataset to get customer.csv
+
+TO conclude, the AI agent works with a dataset containing:
 
 - **Customer Features**: Attributes such as age, location, interaction information (e.g., social media activity), and other demographic/behavioral details.
 - **Feedback and Conversion Status**: Observed **only after querying a customer** (offering a free trial).
