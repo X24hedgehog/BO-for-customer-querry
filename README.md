@@ -31,10 +31,10 @@ By addressing these characteristics, BO allows us to efficiently navigate the tr
 
 ### **Core Algorithm: Upper Confidence Bound (UCB)**
 
-We achieve the balance between exploration and exploitation using the **Upper Confidence Bound (UCB)** algorithm. This algorithm selects customers based on a combination of:
+I achieve the balance between exploration and exploitation using the **Upper Confidence Bound (UCB)** algorithm. This algorithm selects customers based on a combination of:
 
 - **Mean**: The expected conversion potential (**customer score**).
-- **Variance**: The uncertainty of the prediction, ensuring diverse exploration. It has been proof that maximizing the variance is equivalent to maximizing the information gain given a specific set of observed customers.
+- **Variance**: The uncertainty of the prediction, ensuring diverse exploration. It has been proved that maximizing the variance is equivalent to maximizing the information gain given a specific set of observed customers.
 
 The **customer score** is derived from two components:
 1. **Feedback**: Customer's response after using the free trial.
@@ -74,7 +74,7 @@ To conclude, the AI agent works with a dataset containing:
 
 ## **Evaluation Metrics**
 
-To evaluate the AI agent's performance, we measure its ability to select high-converting customers. Specifically, we calculate:
+To evaluate the AI agent's performance, I measure its ability to select high-converting customers. Specifically, I calculate:
 
 - **Hit Rate**: Among all customers who purchased the product (`conversion = 1`) in the test dataset, the percentage of those queried by the AI agent after exhausting the query budget (e.g., 400 queries in the example code).
 
