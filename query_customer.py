@@ -3,7 +3,7 @@ import numpy as np
 import random
 from textblob import TextBlob
 from sklearn.gaussian_process import GaussianProcessRegressor
-from sklearn.gaussian_process.kernels import Matern, DotProduct
+from sklearn.gaussian_process.kernels import DotProduct
 from sklearn.preprocessing import OneHotEncoder, StandardScaler
 from sklearn.compose import ColumnTransformer
 
@@ -134,7 +134,6 @@ def main():
     # # Fit the GP model on the training data
     if train_available:
         for idx in range(len(train_feedbacks)):
-            print(idx)
             feedback, conversion = get_observations(train_feedbacks, idx)
             sentiment_score = compute_sentiment_score(feedback, conversion)
             bo.update(train_features[idx].reshape(1, -1), sentiment_score)
