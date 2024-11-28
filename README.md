@@ -88,3 +88,10 @@ Run query_customer.py file to see the result
 
 ---
 
+## **Result**
+
+First, I would like to confirm that the result is simply for reference purpose since it depends on the feedback, which is not from real data but simulated by me.
+
+If you interest in the result, take a look at the result.txt where I have the rate of conversion from querried customers using Bayesian Optimization compared with a naive baseline which simply randomly choose the customer.
+
+---
