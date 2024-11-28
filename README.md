@@ -10,39 +10,31 @@ In this context, we only observe customer feedback and the binary conversion lab
 
 ---
 
-## **Why Bayesian Optimization is Suitable for This Problem**
-
-Bayesian Optimization (BO) is an ideal approach for this problem because our objective function, **customer score**, meets the typical characteristics of a "black-box function" in BO literature:
+## **Why using Bayesian Optimization for Problem**
 
 1. **No Analytical Expression**:  
-   The customer score is based on feedback and conversion data, which cannot be expressed analytically. This is similar to optimizing the taste of a cookie based on its ingredients—there’s no clear formula, making BO a perfect fit.
+   The customer score is based on feedback and conversion data, which cannot be expressed analytically. This is similar to optimizing the taste of a cookie based on its ingredients—there’s no clear formula.
 
 2. **Smooth and Continuous**:  
-   Small changes in customer features (e.g., age, location, or social media activity) are expected to result in small changes to the customer score. This smoothness allows BO to make informed decisions based on predictions from a surrogate model.
+   Small changes in customer features (e.g., age, location, or social media activity) are expected to result in small changes to the customer score. The intuition is simple: customers with similar background and similar behaviour might have similar response, given that the set of features and behaviour is comprehensive enough. This smoothness allows BO to make informed decisions based on predictions from a surrogate model.
 
 3. **Expensive to Evaluate**:  
-   Each customer query involves offering a free trial and waiting for feedback, making it a costly operation. BO excels in minimizing the number of evaluations needed to find the best candidates.
+   Each customer query involves offering a free trial and waiting for feedback, making it a costly operation. BO helps in minimizing the number of evaluations needed to find the best candidates.
 
 4. **Noisy Observations**:  
-   Feedback and conversions can be noisy due to factors like customer mood, external circumstances, or random variation. BO handles noisy observations well by incorporating Gaussian likelihoods into its probabilistic model.
+   Feedback and conversions can be noisy due to factors like customer mood, external circumstances, or random variation. BO handles such noisy observations by incorporating Gaussian likelihoods into its probabilistic model, in fact, the observation is the latent variable with a Gaussian additive noise.
 
-By addressing these characteristics, BO allows us to efficiently navigate the trade-off between exploration (diverse customer profiles) and exploitation (high conversion potential).
+By addressing these characteristics, BO allows us to efficiently navigate the trade-off between exploring a variety of profile of customers and at the same time maximizing the probability that each customer chosen will actually be converted (buy the product). 
 
 ---
 
-## **Innovative Approach**
-
-This project leverages **Bayesian Optimization** for customer selection, addressing the need for both **exploration** and **exploitation**:
-
-- **Exploration**: Discover a wide variety of customer profiles to ensure our marketing strategy adapts to diverse demographics and behaviors.
-- **Exploitation**: Focus on customers with a high potential of conversion, maximizing the effectiveness of special offers.
 
 ### **Core Algorithm: Upper Confidence Bound (UCB)**
 
 We achieve the balance between exploration and exploitation using the **Upper Confidence Bound (UCB)** algorithm. This algorithm selects customers based on a combination of:
 
 - **Mean**: The expected conversion potential (**customer score**).
-- **Variance**: The uncertainty of the prediction, ensuring diverse exploration.
+- **Variance**: The uncertainty of the prediction, ensuring diverse exploration. It has been proof that maximizing the variance is equivalent to maximizing the information gain given a specific set of observed customers.
 
 The **customer score** is derived from two components:
 1. **Feedback**: Customer's response after using the free trial.
@@ -59,12 +51,14 @@ The AI agent works with a dataset containing:
 - **Customer Features**: Attributes such as age, location, interaction information (e.g., social media activity), and other demographic/behavioral details.
 - **Feedback and Conversion Status**: Observed **only after querying a customer** (offering a free trial).
 
+(Note: The feedback is simulated as this is a work sample, in real life it can be collected by the AI agent)
+
 ### **Data Processing Workflow**
 
-1. **Feature Conversion**: Converts raw customer attributes into numerical features suitable for modeling.
-2. **Gaussian Process Regressor (GPR)**:
-   - Initializes a GPR model to predict customer scores.
-   - The model is trained based on available training data (if any).
+1. **Feature Conversion**: Converts raw customer attributes into numerical features ready to be fit into the GP model.
+2. **Gaussian Process Regressor (GP Regressor)**:
+   - Initializes a GPR model to predict customer scores. I choose to use a Linear kernel (Dot product in sklearn)
+   - The model is trained based on available training data if the training mode is allowed (correspond to when the company already has a dataset with feedback and conversion label available). Otherwise, it will update on the way when querrying customers from the test dataset.
 3. **Iterative Customer Querying**:
    - The AI agent selects customers to query using the current GPR model and the UCB algorithm.
    - After querying, the agent observes feedback and conversion status and updates the GPR model.
@@ -82,8 +76,11 @@ This metric reflects the agent’s efficiency in identifying customers most like
 
 ---
 
-## **How This Approach Stands Out**
+## **How to run the project**
 
-1. **Strategic Querying**: By combining Bayesian Optimization and Gaussian Process Regression, the approach strategically selects customers, avoiding random or arbitrary selections.
-2. **Adaptability**: The model dynamically updates its predictions based on observed feedback, improving its understanding of customer behavior over time.
-3. **Exploration-Exploitation Trade-off**: The UCB algorithm ensures that both high-potential customers and diverse profiles are considered, creating a balanced and effective marketing strategy.
+Run pip install -r requirements.txt to install the required packages
+
+Run query_customer.py file to see the result
+
+---
+
