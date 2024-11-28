@@ -82,7 +82,7 @@ This metric reflects the agent’s efficiency in identifying customers most like
 
 ## **How to run the project**
 
-Run pip install -r requirements.txt to install the required packages
+Run `pip install -r requirements.txt` to install the required packages
 
 Run query_customer.py file to see the result
 
